@@ -1,4 +1,7 @@
 # Logistics Dashboard
+
+![image](https://github.com/user-attachments/assets/ee8b0762-9aa3-4a0a-92b4-340cd7cc3479)
+
 ## Goal:
 The goal of my Power BI logistics dashboard is to provide a comprehensive, interactive view of key logistics and sales metrics to drive operational efficiency, data-driven decision-making, and improved team performance. It tracks essential logistics indicators such as **Revenue**, **Total Shipments**, **Active Shipments**, **Returned Shipments**, **Completed Shipments**, and **Average Delivery Time**, offering insights into the performance of shipments and delivery operations. 
 

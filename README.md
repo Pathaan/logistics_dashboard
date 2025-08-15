@@ -1,5 +1,5 @@
 
-# 📦 **Logistics Performance Analysis – A Data Science Project by Stark Industries**
+# 📦 **Logistics Performance Analysis – A Dashboard by Stark Industries**
 
 ![image](https://github.com/user-attachments/assets/ee8b0762-9aa3-4a0a-92b4-340cd7cc3479)
 
